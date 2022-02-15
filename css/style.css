@@ -1,3 +1,8 @@
 body h1{
     font-weight: 800;
 }
+
+body h3{
+    font-weight: 500;
+    font-style: italic;
+}
